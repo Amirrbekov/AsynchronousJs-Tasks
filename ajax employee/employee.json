@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Mehdi Refiyev",
+        "department": "IT",
+        "salary": -3000
+    },
+    {
+        "name": "Valeh Amirbekov",
+        "department": "IT",
+        "salary": 30000
+    },
+    {
+        "name": "Sadik Turan Murat Cuskun",
+        "department":"Teacher",
+        "salary": 0
+    }
+]
